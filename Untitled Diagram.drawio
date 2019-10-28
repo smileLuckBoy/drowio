@@ -1,1 +1,28 @@
-<mxfile host="www.draw.io" modified="2019-10-28T09:49:45.185Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36" version="12.1.7" etag="w1Lu9A-6IpVeearUnZnK" type="github"><diagram id="hJpydF_lW7WmeeFv-zC1">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2019-10-28T09:56:55.263Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36" etag="P8xBQmGdEZymqIBXemgo" version="12.1.7" type="github" pages="1">
+  <diagram id="hJpydF_lW7WmeeFv-zC1" name="Page-1">
+    <mxGraphModel dx="1408" dy="770" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="F8pincDx-Cik6TYgTe6P-17" value="批量保存" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;" vertex="1" parent="1">
+          <mxGeometry x="100" y="80" width="600" height="480" as="geometry"/>
+        </mxCell>
+        <mxCell id="F8pincDx-Cik6TYgTe6P-18" value="清洗" style="swimlane;html=1;startSize=20;" vertex="1" parent="F8pincDx-Cik6TYgTe6P-17">
+          <mxGeometry y="20" width="120" height="460" as="geometry"/>
+        </mxCell>
+        <mxCell id="F8pincDx-Cik6TYgTe6P-19" value="容错" style="swimlane;html=1;startSize=20;" vertex="1" parent="F8pincDx-Cik6TYgTe6P-17">
+          <mxGeometry x="120" y="20" width="120" height="460" as="geometry"/>
+        </mxCell>
+        <mxCell id="F8pincDx-Cik6TYgTe6P-20" value="前置校验" style="swimlane;html=1;startSize=20;" vertex="1" parent="F8pincDx-Cik6TYgTe6P-17">
+          <mxGeometry x="240" y="20" width="120" height="460" as="geometry"/>
+        </mxCell>
+        <mxCell id="F8pincDx-Cik6TYgTe6P-33" value="入库" style="swimlane;html=1;startSize=20;" vertex="1" parent="F8pincDx-Cik6TYgTe6P-17">
+          <mxGeometry x="360" y="20" width="120" height="460" as="geometry"/>
+        </mxCell>
+        <mxCell id="F8pincDx-Cik6TYgTe6P-34" value="后置校验" style="swimlane;html=1;startSize=20;" vertex="1" parent="F8pincDx-Cik6TYgTe6P-17">
+          <mxGeometry x="480" y="20" width="120" height="460" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
