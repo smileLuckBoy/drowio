@@ -1,9 +1,51 @@
-<mxfile host="www.draw.io" modified="2019-11-05T23:11:12.825Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1.1 Safari/605.1.15" etag="d7545YGa_4TZ_-8wkQCo" version="12.2.0" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-11-05T23:39:50.125Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1.1 Safari/605.1.15" etag="nUB08BfBZPmcElFjKatA" version="12.2.0" type="github" pages="1">
   <diagram id="1EoW_KyZRAk1vCom6X0U" name="Page-1">
     <mxGraphModel dx="1199" dy="694" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
+        <mxCell id="G3zwSIUZMrkUeJx8tftZ-36" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="340" width="482" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="G3zwSIUZMrkUeJx8tftZ-26" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="430" width="482" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="G3zwSIUZMrkUeJx8tftZ-23" value="SSO服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="350" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="G3zwSIUZMrkUeJx8tftZ-24" value="数据字典服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="353" y="350" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="G3zwSIUZMrkUeJx8tftZ-25" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="350" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="G3zwSIUZMrkUeJx8tftZ-37" value="基础服务层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="340" width="60" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="G3zwSIUZMrkUeJx8tftZ-38" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="120" y="410" width="542" height="100" as="geometry"/>
+        </mxCell>
+        <mxCell id="G3zwSIUZMrkUeJx8tftZ-27" value="数据服务层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="G3zwSIUZMrkUeJx8tftZ-38">
+          <mxGeometry y="20" width="60" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="G3zwSIUZMrkUeJx8tftZ-4" value="" style="swimlane;childLayout=stackLayout;horizontal=1;fillColor=none;horizontalStack=1;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;strokeColor=none;stackBorder=10;stackSpacing=-12;resizable=1;align=center;points=[];fontColor=#000000;flipH=0;flipV=0;" vertex="1" parent="G3zwSIUZMrkUeJx8tftZ-38">
+          <mxGeometry x="70" width="472" height="100" as="geometry"/>
+        </mxCell>
+        <mxCell id="G3zwSIUZMrkUeJx8tftZ-5" value="清洗服务" style="shape=step;perimeter=stepPerimeter;fixedSize=1;points=[];flipH=0;flipV=0;" vertex="1" parent="G3zwSIUZMrkUeJx8tftZ-4">
+          <mxGeometry x="10" y="33" width="100" height="57" as="geometry"/>
+        </mxCell>
+        <mxCell id="G3zwSIUZMrkUeJx8tftZ-6" value="容错服务" style="shape=step;perimeter=stepPerimeter;fixedSize=1;points=[];flipH=0;flipV=0;" vertex="1" parent="G3zwSIUZMrkUeJx8tftZ-4">
+          <mxGeometry x="98" y="33" width="100" height="57" as="geometry"/>
+        </mxCell>
+        <mxCell id="G3zwSIUZMrkUeJx8tftZ-7" value="前置校验服务" style="shape=step;perimeter=stepPerimeter;fixedSize=1;points=[];flipH=0;flipV=0;" vertex="1" parent="G3zwSIUZMrkUeJx8tftZ-4">
+          <mxGeometry x="186" y="33" width="100" height="57" as="geometry"/>
+        </mxCell>
+        <mxCell id="G3zwSIUZMrkUeJx8tftZ-8" value="入库服务" style="shape=step;perimeter=stepPerimeter;fixedSize=1;points=[];flipH=0;flipV=0;" vertex="1" parent="G3zwSIUZMrkUeJx8tftZ-4">
+          <mxGeometry x="274" y="33" width="100" height="57" as="geometry"/>
+        </mxCell>
+        <mxCell id="G3zwSIUZMrkUeJx8tftZ-9" value="后置校验服务" style="shape=step;perimeter=stepPerimeter;fixedSize=1;points=[];flipH=0;flipV=0;" vertex="1" parent="G3zwSIUZMrkUeJx8tftZ-4">
+          <mxGeometry x="362" y="33" width="100" height="57" as="geometry"/>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
