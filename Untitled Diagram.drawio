@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-11-13T11:10:59.315Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.87 Safari/537.36" etag="zG8G_HTAAVCJjpfHCtvq" version="12.2.4" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-11-13T11:41:18.120Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.87 Safari/537.36" etag="TK-1jgQlrlsc0FmRq5nl" version="12.2.4" type="github" pages="1">
   <diagram id="bwR0MPHZC12A5jwAdn_Z" name="Page-1">
     <mxGraphModel dx="1408" dy="758" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -141,6 +141,42 @@
         </mxCell>
         <mxCell id="ZqbOeCTGDKddQ_U7KF8V-48" value="Spring Boot应用容器" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" vertex="1" parent="ZqbOeCTGDKddQ_U7KF8V-71">
           <mxGeometry x="40" y="131" width="150" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="ZqbOeCTGDKddQ_U7KF8V-88" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="80" y="750" width="677" height="110" as="geometry"/>
+        </mxCell>
+        <mxCell id="ZqbOeCTGDKddQ_U7KF8V-80" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;align=center;" vertex="1" parent="ZqbOeCTGDKddQ_U7KF8V-88">
+          <mxGeometry x="13" y="2" width="20" height="105" as="geometry"/>
+        </mxCell>
+        <mxCell id="ZqbOeCTGDKddQ_U7KF8V-81" value="数&lt;br&gt;据&lt;br&gt;存&lt;br&gt;储&lt;br&gt;层" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" vertex="1" parent="ZqbOeCTGDKddQ_U7KF8V-88">
+          <mxGeometry y="8" width="30" height="70" as="geometry"/>
+        </mxCell>
+        <mxCell id="ZqbOeCTGDKddQ_U7KF8V-86" value="" style="group" vertex="1" connectable="0" parent="ZqbOeCTGDKddQ_U7KF8V-88">
+          <mxGeometry x="40" width="637" height="110" as="geometry"/>
+        </mxCell>
+        <mxCell id="ZqbOeCTGDKddQ_U7KF8V-74" value="" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="ZqbOeCTGDKddQ_U7KF8V-86">
+          <mxGeometry width="637" height="110" as="geometry"/>
+        </mxCell>
+        <mxCell id="ZqbOeCTGDKddQ_U7KF8V-75" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.mysql_db_instance_2;fillColor=#2E73B8;gradientColor=none;" vertex="1" parent="ZqbOeCTGDKddQ_U7KF8V-86">
+          <mxGeometry x="90" y="17" width="60" height="63" as="geometry"/>
+        </mxCell>
+        <mxCell id="ZqbOeCTGDKddQ_U7KF8V-76" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.redis;fillColor=#2E73B8;gradientColor=none;" vertex="1" parent="ZqbOeCTGDKddQ_U7KF8V-86">
+          <mxGeometry x="338" y="18" width="60" height="63" as="geometry"/>
+        </mxCell>
+        <mxCell id="ZqbOeCTGDKddQ_U7KF8V-77" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.attributes;fillColor=#2E73B8;gradientColor=none;" vertex="1" parent="ZqbOeCTGDKddQ_U7KF8V-86">
+          <mxGeometry x="460" y="17" width="63" height="66" as="geometry"/>
+        </mxCell>
+        <mxCell id="ZqbOeCTGDKddQ_U7KF8V-78" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.mysql_db_instance_2;fillColor=#2E73B8;gradientColor=none;" vertex="1" parent="ZqbOeCTGDKddQ_U7KF8V-86">
+          <mxGeometry x="170" y="18.5" width="60" height="63" as="geometry"/>
+        </mxCell>
+        <mxCell id="ZqbOeCTGDKddQ_U7KF8V-82" value="数据库集群" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ZqbOeCTGDKddQ_U7KF8V-86">
+          <mxGeometry x="120" y="88" width="80" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="ZqbOeCTGDKddQ_U7KF8V-83" value="缓存集群" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ZqbOeCTGDKddQ_U7KF8V-86">
+          <mxGeometry x="328" y="88" width="80" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="ZqbOeCTGDKddQ_U7KF8V-84" value="NoSql集群" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ZqbOeCTGDKddQ_U7KF8V-86">
+          <mxGeometry x="451.5" y="88" width="80" height="20" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
