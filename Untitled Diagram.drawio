@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-11-13T11:41:41.119Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.87 Safari/537.36" etag="pvSM-AGatCyhTFbUPJTZ" version="12.2.4" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-11-13T12:10:28.049Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.87 Safari/537.36" etag="IL6Gt_RZqJxMbzvw41xO" version="12.2.4" type="github" pages="1">
   <diagram id="bwR0MPHZC12A5jwAdn_Z" name="Page-1">
     <mxGraphModel dx="1408" dy="758" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -88,19 +88,22 @@
         <mxCell id="ZqbOeCTGDKddQ_U7KF8V-41" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ZqbOeCTGDKddQ_U7KF8V-69">
           <mxGeometry width="150" height="190" as="geometry"/>
         </mxCell>
-        <mxCell id="ZqbOeCTGDKddQ_U7KF8V-42" value="基础组件层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ZqbOeCTGDKddQ_U7KF8V-69">
+        <mxCell id="ZqbOeCTGDKddQ_U7KF8V-89" value="" style="group" vertex="1" connectable="0" parent="ZqbOeCTGDKddQ_U7KF8V-69">
+          <mxGeometry width="150" height="180" as="geometry"/>
+        </mxCell>
+        <mxCell id="ZqbOeCTGDKddQ_U7KF8V-42" value="基础组件层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ZqbOeCTGDKddQ_U7KF8V-89">
           <mxGeometry width="150" height="40" as="geometry"/>
         </mxCell>
-        <mxCell id="ZqbOeCTGDKddQ_U7KF8V-61" value="熔断/降级组件" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="ZqbOeCTGDKddQ_U7KF8V-69">
+        <mxCell id="ZqbOeCTGDKddQ_U7KF8V-61" value="熔断/降级组件" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="ZqbOeCTGDKddQ_U7KF8V-89">
           <mxGeometry x="15" y="45" width="120" height="30" as="geometry"/>
         </mxCell>
-        <mxCell id="ZqbOeCTGDKddQ_U7KF8V-63" value="限流组件" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="ZqbOeCTGDKddQ_U7KF8V-69">
+        <mxCell id="ZqbOeCTGDKddQ_U7KF8V-63" value="限流组件" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="ZqbOeCTGDKddQ_U7KF8V-89">
           <mxGeometry x="15" y="80" width="120" height="30" as="geometry"/>
         </mxCell>
-        <mxCell id="ZqbOeCTGDKddQ_U7KF8V-64" value="日志组件" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="ZqbOeCTGDKddQ_U7KF8V-69">
+        <mxCell id="ZqbOeCTGDKddQ_U7KF8V-64" value="日志组件" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="ZqbOeCTGDKddQ_U7KF8V-89">
           <mxGeometry x="15" y="115" width="120" height="30" as="geometry"/>
         </mxCell>
-        <mxCell id="ZqbOeCTGDKddQ_U7KF8V-66" value="······" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="ZqbOeCTGDKddQ_U7KF8V-69">
+        <mxCell id="ZqbOeCTGDKddQ_U7KF8V-66" value="JDBC链接池组件" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="ZqbOeCTGDKddQ_U7KF8V-89">
           <mxGeometry x="15" y="150" width="120" height="30" as="geometry"/>
         </mxCell>
         <mxCell id="ZqbOeCTGDKddQ_U7KF8V-70" value="" style="group" vertex="1" connectable="0" parent="ZqbOeCTGDKddQ_U7KF8V-72">
@@ -177,6 +180,15 @@
         </mxCell>
         <mxCell id="ZqbOeCTGDKddQ_U7KF8V-84" value="NoSql集群" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ZqbOeCTGDKddQ_U7KF8V-86">
           <mxGeometry x="451.5" y="88" width="80" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="ZqbOeCTGDKddQ_U7KF8V-90" value="编辑平台-数据库模块" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="123" y="170" width="627" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="ZqbOeCTGDKddQ_U7KF8V-91" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="95" y="170" width="20" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="ZqbOeCTGDKddQ_U7KF8V-92" value="接&lt;br&gt;口&lt;br&gt;层" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" vertex="1" parent="1">
+          <mxGeometry x="73" y="170" width="30" height="40" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
