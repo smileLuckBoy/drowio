@@ -1,1 +1,55 @@
-<mxfile host="www.draw.io" modified="2019-11-14T03:03:06.388Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.87 Safari/537.36" version="12.2.6" etag="hdRTaAcwCYl6ugwZhjzd" type="github" pages="1"><diagram id="NN7ke_UCxoJ4T27bjf-G">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2019-11-14T08:00:00.762Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.87 Safari/537.36" etag="tLmNZqgV8DWysl-1VRxj" version="12.2.6" type="github" pages="1">
+  <diagram id="NN7ke_UCxoJ4T27bjf-G" name="Page-1">
+    <mxGraphModel dx="1408" dy="758" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="7J6WEcuzodg_i-CPZLmY-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="510" width="160" height="166" as="geometry"/>
+        </mxCell>
+        <mxCell id="7J6WEcuzodg_i-CPZLmY-11" value="文件导入模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="526" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="7J6WEcuzodg_i-CPZLmY-12" value="SQL导入模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="606" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="7J6WEcuzodg_i-CPZLmY-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="510" width="310" height="166" as="geometry"/>
+        </mxCell>
+        <mxCell id="7J6WEcuzodg_i-CPZLmY-14" value="批量赋值模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="526" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="7J6WEcuzodg_i-CPZLmY-16" value="编辑全部模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="526" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="7J6WEcuzodg_i-CPZLmY-17" value="批量删除模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="606" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="7J6WEcuzodg_i-CPZLmY-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="510" width="160" height="166" as="geometry"/>
+        </mxCell>
+        <mxCell id="7J6WEcuzodg_i-CPZLmY-19" value="单条数据&lt;br&gt;新增/编辑/删除模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="533" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="7J6WEcuzodg_i-CPZLmY-21" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="700" width="670" height="140" as="geometry"/>
+        </mxCell>
+        <mxCell id="7J6WEcuzodg_i-CPZLmY-22" value="EXCEL导出模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="283" y="710" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="7J6WEcuzodg_i-CPZLmY-23" value="SQL执行模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="710" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="7J6WEcuzodg_i-CPZLmY-24" value="EXCEL解析模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="710" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="7J6WEcuzodg_i-CPZLmY-25" value="SQL校验模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="447" y="710" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="7J6WEcuzodg_i-CPZLmY-26" value="数据导出模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="606" width="120" height="60" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
