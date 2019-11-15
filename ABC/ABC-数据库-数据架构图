@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-11-14T03:48:07.100Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.87 Safari/537.36" etag="2AsSslTT1I-DEnyYqjWS" version="12.2.6" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-11-15T03:08:18.663Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.87 Safari/537.36" etag="1f3zq94V487x7n94XpEq" version="12.2.6" type="github" pages="2">
   <diagram id="o9K4LvC-zdWEe1FgBIKG" name="Page-1">
     <mxGraphModel dx="1408" dy="758" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -75,6 +75,56 @@
         </mxCell>
         <mxCell id="fTyOXh-dhYymnnRZ5AD_-52" value="" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;align=center;" vertex="1" parent="fTyOXh-dhYymnnRZ5AD_-60">
           <mxGeometry x="110" y="3.5" width="40" height="53" as="geometry"/>
+        </mxCell>
+        <mxCell id="fTyOXh-dhYymnnRZ5AD_-64" value="数据流" style="swimlane;childLayout=stackLayout;horizontal=1;fillColor=none;horizontalStack=1;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;strokeColor=none;stackBorder=10;stackSpacing=-12;resizable=1;align=center;points=[];fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="180" y="830" width="560" height="100" as="geometry"/>
+        </mxCell>
+        <mxCell id="fTyOXh-dhYymnnRZ5AD_-65" value="外部数据" style="shape=step;perimeter=stepPerimeter;fixedSize=1;points=[];" vertex="1" parent="fTyOXh-dhYymnnRZ5AD_-64">
+          <mxGeometry x="10" y="33" width="100" height="57" as="geometry"/>
+        </mxCell>
+        <mxCell id="fTyOXh-dhYymnnRZ5AD_-66" value="清洗系统" style="shape=step;perimeter=stepPerimeter;fixedSize=1;points=[];" vertex="1" parent="fTyOXh-dhYymnnRZ5AD_-64">
+          <mxGeometry x="98" y="33" width="100" height="57" as="geometry"/>
+        </mxCell>
+        <mxCell id="fTyOXh-dhYymnnRZ5AD_-67" value="容错系统" style="shape=step;perimeter=stepPerimeter;fixedSize=1;points=[];" vertex="1" parent="fTyOXh-dhYymnnRZ5AD_-64">
+          <mxGeometry x="186" y="33" width="100" height="57" as="geometry"/>
+        </mxCell>
+        <mxCell id="fTyOXh-dhYymnnRZ5AD_-68" value="前置校验系统" style="shape=step;perimeter=stepPerimeter;fixedSize=1;points=[];" vertex="1" parent="fTyOXh-dhYymnnRZ5AD_-64">
+          <mxGeometry x="274" y="33" width="100" height="57" as="geometry"/>
+        </mxCell>
+        <mxCell id="fTyOXh-dhYymnnRZ5AD_-69" value="入库" style="shape=step;perimeter=stepPerimeter;fixedSize=1;points=[];" vertex="1" parent="fTyOXh-dhYymnnRZ5AD_-64">
+          <mxGeometry x="362" y="33" width="100" height="57" as="geometry"/>
+        </mxCell>
+        <mxCell id="fTyOXh-dhYymnnRZ5AD_-70" value="后置校验系统" style="shape=step;perimeter=stepPerimeter;fixedSize=1;points=[];" vertex="1" parent="fTyOXh-dhYymnnRZ5AD_-64">
+          <mxGeometry x="450" y="33" width="100" height="57" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="3e0gRzAU2q1ysfHhzIrZ" name="Page-2">
+    <mxGraphModel dx="1408" dy="709" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="epZVT2T29hW3DDGDYZf0-0"/>
+        <mxCell id="epZVT2T29hW3DDGDYZf0-1" parent="epZVT2T29hW3DDGDYZf0-0"/>
+        <mxCell id="epZVT2T29hW3DDGDYZf0-2" value="数据流" style="swimlane;childLayout=stackLayout;horizontal=1;fillColor=none;horizontalStack=1;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;strokeColor=none;stackBorder=10;stackSpacing=-12;resizable=1;align=center;points=[];fontColor=#000000;" vertex="1" parent="epZVT2T29hW3DDGDYZf0-1">
+          <mxGeometry x="180" y="830" width="560" height="100" as="geometry"/>
+        </mxCell>
+        <mxCell id="epZVT2T29hW3DDGDYZf0-3" value="外部数据" style="shape=step;perimeter=stepPerimeter;fixedSize=1;points=[];" vertex="1" parent="epZVT2T29hW3DDGDYZf0-2">
+          <mxGeometry x="10" y="33" width="100" height="57" as="geometry"/>
+        </mxCell>
+        <mxCell id="epZVT2T29hW3DDGDYZf0-4" value="清洗系统" style="shape=step;perimeter=stepPerimeter;fixedSize=1;points=[];" vertex="1" parent="epZVT2T29hW3DDGDYZf0-2">
+          <mxGeometry x="98" y="33" width="100" height="57" as="geometry"/>
+        </mxCell>
+        <mxCell id="epZVT2T29hW3DDGDYZf0-5" value="容错系统" style="shape=step;perimeter=stepPerimeter;fixedSize=1;points=[];" vertex="1" parent="epZVT2T29hW3DDGDYZf0-2">
+          <mxGeometry x="186" y="33" width="100" height="57" as="geometry"/>
+        </mxCell>
+        <mxCell id="epZVT2T29hW3DDGDYZf0-6" value="前置校验系统" style="shape=step;perimeter=stepPerimeter;fixedSize=1;points=[];" vertex="1" parent="epZVT2T29hW3DDGDYZf0-2">
+          <mxGeometry x="274" y="33" width="100" height="57" as="geometry"/>
+        </mxCell>
+        <mxCell id="epZVT2T29hW3DDGDYZf0-7" value="入库" style="shape=step;perimeter=stepPerimeter;fixedSize=1;points=[];" vertex="1" parent="epZVT2T29hW3DDGDYZf0-2">
+          <mxGeometry x="362" y="33" width="100" height="57" as="geometry"/>
+        </mxCell>
+        <mxCell id="epZVT2T29hW3DDGDYZf0-8" value="后置校验系统" style="shape=step;perimeter=stepPerimeter;fixedSize=1;points=[];" vertex="1" parent="epZVT2T29hW3DDGDYZf0-2">
+          <mxGeometry x="450" y="33" width="100" height="57" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
