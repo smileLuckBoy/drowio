@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2020-11-02T12:39:38.748Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="AvnhBMi8wmPS7bs67BLn" version="13.8.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-02T12:49:36.486Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="H-EpjQEgeJIa9oUrx_Uz" version="13.8.6" type="github">
   <diagram id="nVS1z4Y_-Y_mz45k10Go" name="Page-1">
     <mxGraphModel dx="1038" dy="556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="8Vj3od7fIR08aVMTatw8-20" value="执行器" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="370" y="40" width="250" height="190" as="geometry" />
+          <mxGeometry x="414" y="45" width="246" height="245" as="geometry" />
         </mxCell>
         <mxCell id="4RTG4fBJWJTOTxvx7D-B-3" value="调度器管理" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=bottom;" parent="1" vertex="1">
           <mxGeometry x="30" y="40" width="300" height="420" as="geometry" />
@@ -41,16 +41,25 @@
           <mxGeometry x="50" y="170" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8Vj3od7fIR08aVMTatw8-7" value="调度器" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="380" y="70" width="60" height="80" as="geometry" />
+          <mxGeometry x="424" y="75" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="8Vj3od7fIR08aVMTatw8-8" value="下载器" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=left;" vertex="1" parent="1">
-          <mxGeometry x="460" y="70" width="60" height="80" as="geometry" />
+          <mxGeometry x="504" y="75" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="8Vj3od7fIR08aVMTatw8-10" value="处理器" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="540" y="70" width="60" height="80" as="geometry" />
+          <mxGeometry x="584" y="75" width="60" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="8Vj3od7fIR08aVMTatw8-11" value="存储器" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="380" y="165" width="220" height="55" as="geometry" />
+        <mxCell id="8Vj3od7fIR08aVMTatw8-11" value="存储器" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="424" y="170" width="220" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="8Vj3od7fIR08aVMTatw8-21" value="" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="411" y="305" width="246" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="8Vj3od7fIR08aVMTatw8-22" value="执行结果&lt;br&gt;（queue）" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="527" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8Vj3od7fIR08aVMTatw8-23" value="回调线程" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="427" y="326.25" width="84" height="47.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
