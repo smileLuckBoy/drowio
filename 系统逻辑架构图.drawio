@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-04T12:17:58.855Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="ksCSW419DccTrj9bnDCs" version="14.1.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-04T23:14:30.193Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="QHZSNs_UMVjkMZt5l664" version="14.1.9" type="github">
   <diagram id="01MuhHfUqXOSb2d-PzTH" name="Page-1">
-    <mxGraphModel dx="1061" dy="652" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1061" dy="556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -36,6 +36,60 @@
         </mxCell>
         <mxCell id="m8nuv3cI6PB-_nubAmMM-21" value="JAR" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="380" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="m8nuv3cI6PB-_nubAmMM-27" value="" style="endArrow=none;dashed=1;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="270" as="sourcePoint" />
+            <mxPoint x="670" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m8nuv3cI6PB-_nubAmMM-28" value="" style="endArrow=none;dashed=1;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="520" as="sourcePoint" />
+            <mxPoint x="780" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m8nuv3cI6PB-_nubAmMM-29" value="" style="endArrow=none;dashed=1;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="610" as="sourcePoint" />
+            <mxPoint x="780" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m8nuv3cI6PB-_nubAmMM-30" value="数据&lt;br style=&quot;font-size: 15px;&quot;&gt;存储层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=15;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="70" y="540" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="m8nuv3cI6PB-_nubAmMM-31" value="应用&lt;br&gt;平台层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=15;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="60" y="375" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="m8nuv3cI6PB-_nubAmMM-32" value="公共&lt;br style=&quot;font-size: 15px;&quot;&gt;服务层" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;verticalAlign=top;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="680" y="104" width="110" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="m8nuv3cI6PB-_nubAmMM-33" value="权限控制" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="690" y="164" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="m8nuv3cI6PB-_nubAmMM-34" value="日志中心" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="690" y="224" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="m8nuv3cI6PB-_nubAmMM-35" value="配置中心" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="690" y="284" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="m8nuv3cI6PB-_nubAmMM-36" value="监控中心" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="690" y="334" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="m8nuv3cI6PB-_nubAmMM-37" value="权限控制" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="690" y="384" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="m8nuv3cI6PB-_nubAmMM-38" value="权限控制" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="690" y="434" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="m8nuv3cI6PB-_nubAmMM-40" value="RDS集群" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="165" y="540" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="m8nuv3cI6PB-_nubAmMM-41" value="Redis集群" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="350" y="540" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="m8nuv3cI6PB-_nubAmMM-42" value="NoSQL" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="560" y="545" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
