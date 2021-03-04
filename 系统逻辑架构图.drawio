@@ -1,1 +1,43 @@
-<mxfile host="app.diagrams.net" modified="2021-03-04T11:01:20.350Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" version="14.1.9" etag="gVhkK5H-4yBMx5p03HdY" type="github"><diagram id="01MuhHfUqXOSb2d-PzTH">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-03-04T12:17:58.855Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="ksCSW419DccTrj9bnDCs" version="14.1.9" type="github">
+  <diagram id="01MuhHfUqXOSb2d-PzTH" name="Page-1">
+    <mxGraphModel dx="1061" dy="652" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="m8nuv3cI6PB-_nubAmMM-9" value="执行器" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="150" y="290" width="120" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="m8nuv3cI6PB-_nubAmMM-10" value="HTTP执行器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="330" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="m8nuv3cI6PB-_nubAmMM-12" value="SDK执行器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="380" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="m8nuv3cI6PB-_nubAmMM-13" value="参数映射器" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="294" y="290" width="120" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="m8nuv3cI6PB-_nubAmMM-14" value="JSON映射器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="304" y="330" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="m8nuv3cI6PB-_nubAmMM-15" value="XML映射器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="304" y="380" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="m8nuv3cI6PB-_nubAmMM-16" value="自定义映射器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="304" y="430" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="m8nuv3cI6PB-_nubAmMM-18" value="动态脚本解析器" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="440" y="290" width="120" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="m8nuv3cI6PB-_nubAmMM-19" value="JAVA" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="330" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="m8nuv3cI6PB-_nubAmMM-20" value="POM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="430" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="m8nuv3cI6PB-_nubAmMM-21" value="JAR" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="380" width="100" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
