@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-07T16:34:08.163Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="Latrm0T1Pae8mXX99od4" version="14.1.9" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2021-03-07T16:35:25.940Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="1UWr0EM-cEYXj9gpJqnZ" version="14.1.9" type="github" pages="5">
   <diagram id="01MuhHfUqXOSb2d-PzTH" name="Page-1">
     <mxGraphModel dx="1061" dy="556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -115,13 +115,13 @@
         <mxCell id="m8nuv3cI6PB-_nubAmMM-65" value="配&lt;br&gt;置&lt;br&gt;管&lt;br&gt;&lt;div&gt;理&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;align=left;spacing=2;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="300" y="282" width="360" height="68" as="geometry" />
         </mxCell>
-        <mxCell id="m8nuv3cI6PB-_nubAmMM-69" value="JSON映射器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="m8nuv3cI6PB-_nubAmMM-69" value="CRUD" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="323" y="296" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="m8nuv3cI6PB-_nubAmMM-70" value="XML映射器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="m8nuv3cI6PB-_nubAmMM-70" value="&lt;span&gt;参数映射&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="296" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="m8nuv3cI6PB-_nubAmMM-71" value="自定义映射器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="m8nuv3cI6PB-_nubAmMM-71" value="其它" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="296" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="m8nuv3cI6PB-_nubAmMM-73" value="OPEN-API" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;align=center;" vertex="1" parent="1">
