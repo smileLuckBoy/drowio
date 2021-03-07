@@ -1,95 +1,68 @@
-<mxfile host="app.diagrams.net" modified="2021-03-05T02:03:39.991Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="5JaTd7yzI3zQ8NDBkWIm" version="14.1.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-07T14:24:12.521Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="myuvlcLT0jbs3BqBrS3m" version="14.1.9" type="github">
   <diagram id="01MuhHfUqXOSb2d-PzTH" name="Page-1">
-    <mxGraphModel dx="1061" dy="1725" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1061" dy="556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="m8nuv3cI6PB-_nubAmMM-53" value="&amp;nbsp;执&amp;nbsp;&lt;br&gt;&amp;nbsp;行&lt;br&gt;&amp;nbsp;器" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;align=left;" vertex="1" parent="1">
+          <mxGeometry x="120" y="282" width="410" height="228" as="geometry" />
+        </mxCell>
         <mxCell id="m8nuv3cI6PB-_nubAmMM-9" value="HTTP 执行器" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="150" y="290" width="240" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="m8nuv3cI6PB-_nubAmMM-13" value="参数映射器" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="70" y="-240" width="120" height="210" as="geometry" />
-        </mxCell>
-        <mxCell id="m8nuv3cI6PB-_nubAmMM-14" value="JSON映射器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="-200" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="m8nuv3cI6PB-_nubAmMM-15" value="XML映射器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="-150" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="m8nuv3cI6PB-_nubAmMM-16" value="自定义映射器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="-100" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="m8nuv3cI6PB-_nubAmMM-18" value="动态脚本解析器" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="230" y="-240" width="120" height="210" as="geometry" />
-        </mxCell>
-        <mxCell id="m8nuv3cI6PB-_nubAmMM-19" value="JAVA" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="-200" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="m8nuv3cI6PB-_nubAmMM-20" value="POM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="-100" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="m8nuv3cI6PB-_nubAmMM-21" value="JAR" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="-150" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="m8nuv3cI6PB-_nubAmMM-27" value="" style="endArrow=none;dashed=1;html=1;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="80" y="270" as="sourcePoint" />
-            <mxPoint x="670" y="270" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="m8nuv3cI6PB-_nubAmMM-28" value="" style="endArrow=none;dashed=1;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="80" y="520" as="sourcePoint" />
-            <mxPoint x="780" y="520" as="targetPoint" />
+            <mxPoint x="60" y="620" as="sourcePoint" />
+            <mxPoint x="780" y="620" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="m8nuv3cI6PB-_nubAmMM-29" value="" style="endArrow=none;dashed=1;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="80" y="610" as="sourcePoint" />
-            <mxPoint x="780" y="610" as="targetPoint" />
+            <mxPoint x="60" y="700" as="sourcePoint" />
+            <mxPoint x="780" y="700" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="m8nuv3cI6PB-_nubAmMM-30" value="数据&lt;br style=&quot;font-size: 15px;&quot;&gt;存储层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=15;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="70" y="540" width="60" height="40" as="geometry" />
+          <mxGeometry x="50" y="640" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="m8nuv3cI6PB-_nubAmMM-31" value="应用&lt;br&gt;平台层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=15;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="60" y="375" width="60" height="40" as="geometry" />
+        <mxCell id="m8nuv3cI6PB-_nubAmMM-31" value="平台层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=15;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="50" y="380" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="m8nuv3cI6PB-_nubAmMM-32" value="公共&lt;br style=&quot;font-size: 15px;&quot;&gt;服务层" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;verticalAlign=top;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="680" y="104" width="110" height="410" as="geometry" />
+          <mxGeometry x="670" y="140" width="110" height="460" as="geometry" />
         </mxCell>
         <mxCell id="m8nuv3cI6PB-_nubAmMM-33" value="权限控制" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="690" y="164" width="90" height="40" as="geometry" />
+          <mxGeometry x="680" y="257" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="m8nuv3cI6PB-_nubAmMM-34" value="日志中心" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="690" y="224" width="90" height="40" as="geometry" />
+          <mxGeometry x="680" y="319" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="m8nuv3cI6PB-_nubAmMM-35" value="配置中心" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="690" y="284" width="90" height="40" as="geometry" />
+          <mxGeometry x="680" y="377" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="m8nuv3cI6PB-_nubAmMM-36" value="监控中心" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="690" y="334" width="90" height="40" as="geometry" />
+          <mxGeometry x="680" y="430" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="m8nuv3cI6PB-_nubAmMM-37" value="权限控制" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="690" y="384" width="90" height="40" as="geometry" />
+        <mxCell id="m8nuv3cI6PB-_nubAmMM-37" value="注册中心" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="680" y="481" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="m8nuv3cI6PB-_nubAmMM-38" value="权限控制" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="690" y="434" width="90" height="40" as="geometry" />
+        <mxCell id="m8nuv3cI6PB-_nubAmMM-38" value="其它" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="680" y="534" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="m8nuv3cI6PB-_nubAmMM-40" value="RDS集群" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="165" y="540" width="90" height="40" as="geometry" />
+          <mxGeometry x="165" y="640" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="m8nuv3cI6PB-_nubAmMM-41" value="Redis集群" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="323" y="540" width="90" height="40" as="geometry" />
+          <mxGeometry x="323" y="640" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="m8nuv3cI6PB-_nubAmMM-42" value="NoSQL" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="482" y="540" width="90" height="40" as="geometry" />
+          <mxGeometry x="482" y="640" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="m8nuv3cI6PB-_nubAmMM-43" value="文件存储" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="640" y="540" width="90" height="40" as="geometry" />
+        <mxCell id="m8nuv3cI6PB-_nubAmMM-43" value="对象存储" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="640" y="640" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="m8nuv3cI6PB-_nubAmMM-44" value="SDK执行器" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="414" y="290" width="240" height="210" as="geometry" />
+          <mxGeometry x="404" y="290" width="116" height="210" as="geometry" />
         </mxCell>
         <mxCell id="m8nuv3cI6PB-_nubAmMM-45" value="URL构造器" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="160" y="324" width="90" height="40" as="geometry" />
@@ -108,6 +81,57 @@
         </mxCell>
         <mxCell id="m8nuv3cI6PB-_nubAmMM-50" value="鉴权管理器" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="270" y="324" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="m8nuv3cI6PB-_nubAmMM-52" value="SDK执行引擎" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="417" y="324" width="90" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="m8nuv3cI6PB-_nubAmMM-54" value="" style="endArrow=none;dashed=1;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="50" y="210" as="sourcePoint" />
+            <mxPoint x="660" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m8nuv3cI6PB-_nubAmMM-55" value="接入层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=15;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="50" y="160" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="m8nuv3cI6PB-_nubAmMM-59" value="接入SDK" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="470" y="150" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="m8nuv3cI6PB-_nubAmMM-60" value="HTTP" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="190" y="150" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="m8nuv3cI6PB-_nubAmMM-61" value="&amp;nbsp;基&amp;nbsp;&lt;br&gt;&amp;nbsp;础&lt;br&gt;&amp;nbsp;组&lt;br&gt;&amp;nbsp;件" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;align=left;" vertex="1" parent="1">
+          <mxGeometry x="120" y="520" width="540" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="m8nuv3cI6PB-_nubAmMM-62" value="动态脚本解析器" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="150" y="540" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="m8nuv3cI6PB-_nubAmMM-63" value="加密库" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="400" y="540" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="m8nuv3cI6PB-_nubAmMM-64" value="报文解析器" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="280" y="540" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="m8nuv3cI6PB-_nubAmMM-65" value="参数映射器" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;align=center;spacing=2;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="540" y="282" width="120" height="228" as="geometry" />
+        </mxCell>
+        <mxCell id="m8nuv3cI6PB-_nubAmMM-69" value="JSON映射器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="324" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="m8nuv3cI6PB-_nubAmMM-70" value="XML映射器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="374" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="m8nuv3cI6PB-_nubAmMM-71" value="自定义映射器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="424" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="m8nuv3cI6PB-_nubAmMM-73" value="API管理" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;align=center;" vertex="1" parent="1">
+          <mxGeometry x="120" y="220" width="540" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="m8nuv3cI6PB-_nubAmMM-74" value="" style="endArrow=none;dashed=1;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="50" y="120" as="sourcePoint" />
+            <mxPoint x="780" y="120" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
