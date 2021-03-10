@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-07T17:26:58.490Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="5a41mt7w_KC8NV-w5ekH" version="14.1.9" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2021-03-10T03:14:40.398Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="Dr3fEJO0445oytpue79b" version="14.1.9" type="github" pages="5">
   <diagram id="9y6IP397UQbjec2epPPS" name="基础架构">
     <mxGraphModel dx="1061" dy="556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -67,9 +67,6 @@
         <mxCell id="m8nuv3cI6PB-_nubAmMM-32" value="公共&lt;br style=&quot;font-size: 15px;&quot;&gt;服务层" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;verticalAlign=top;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="670" y="134" width="110" height="470" as="geometry" />
         </mxCell>
-        <mxCell id="m8nuv3cI6PB-_nubAmMM-33" value="权限控制" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="680" y="190" width="90" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="m8nuv3cI6PB-_nubAmMM-34" value="日志中心" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="680" y="261" width="90" height="40" as="geometry" />
         </mxCell>
@@ -106,7 +103,7 @@
         <mxCell id="m8nuv3cI6PB-_nubAmMM-46" value="Header构造器" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="274" y="396" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="m8nuv3cI6PB-_nubAmMM-47" value="Body构造器" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="m8nuv3cI6PB-_nubAmMM-47" value="参数构造器" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="392" y="396" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="m8nuv3cI6PB-_nubAmMM-48" value="证书管理器" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
@@ -262,7 +259,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="lINmoWAgAFzJZySkETCa" name="部署图">
-    <mxGraphModel dx="884" dy="463" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="884" dy="423" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="n-GR30JYTgkMvjTX16FW-0" />
         <mxCell id="n-GR30JYTgkMvjTX16FW-1" parent="n-GR30JYTgkMvjTX16FW-0" />
