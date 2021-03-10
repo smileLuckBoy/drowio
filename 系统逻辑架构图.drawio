@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-10T03:16:37.863Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="xeQ0TQUTeJNY4DXF20_3" version="14.1.9" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2021-03-10T11:04:01.779Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="wnsJnpAbJo74CYwa5y1j" version="14.1.9" type="github" pages="6">
   <diagram id="9y6IP397UQbjec2epPPS" name="基础架构">
     <mxGraphModel dx="1061" dy="556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -259,24 +259,18 @@
     </mxGraphModel>
   </diagram>
   <diagram id="lINmoWAgAFzJZySkETCa" name="部署图">
-    <mxGraphModel dx="884" dy="423" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="884" dy="463" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="n-GR30JYTgkMvjTX16FW-0" />
         <mxCell id="n-GR30JYTgkMvjTX16FW-1" parent="n-GR30JYTgkMvjTX16FW-0" />
         <mxCell id="tZWwhOLCPN1LkSMOnaSH-4" value="数据库" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;fontSize=12;align=center;dashed=1;verticalAlign=top;" vertex="1" parent="n-GR30JYTgkMvjTX16FW-1">
-          <mxGeometry x="120" y="395" width="300" height="190" as="geometry" />
+          <mxGeometry x="236" y="430" width="300" height="190" as="geometry" />
         </mxCell>
         <mxCell id="xnUpjPyOTG2QwRTS216Z-3" value="MYSQL集群" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.mysql_db_instance;fillColor=#2E73B8;gradientColor=none;fontSize=12;" vertex="1" parent="n-GR30JYTgkMvjTX16FW-1">
-          <mxGeometry x="180" y="452.75" width="60" height="64.5" as="geometry" />
+          <mxGeometry x="296" y="487.75" width="60" height="64.5" as="geometry" />
         </mxCell>
         <mxCell id="xnUpjPyOTG2QwRTS216Z-4" value="REDIS集群" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.redis;fillColor=#2E73B8;gradientColor=none;fontSize=12;" vertex="1" parent="n-GR30JYTgkMvjTX16FW-1">
-          <mxGeometry x="300" y="452.75" width="60" height="63" as="geometry" />
-        </mxCell>
-        <mxCell id="tZWwhOLCPN1LkSMOnaSH-5" value="文件存储系统" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;fontSize=12;align=center;dashed=1;verticalAlign=top;" vertex="1" parent="n-GR30JYTgkMvjTX16FW-1">
-          <mxGeometry x="450" y="395" width="130" height="190" as="geometry" />
-        </mxCell>
-        <mxCell id="tZWwhOLCPN1LkSMOnaSH-7" value="OSS" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.elastic_file_system;shadow=0;glass=0;sketch=0;" vertex="1" parent="n-GR30JYTgkMvjTX16FW-1">
-          <mxGeometry x="475" y="445" width="80" height="110" as="geometry" />
+          <mxGeometry x="416" y="487.75" width="60" height="63" as="geometry" />
         </mxCell>
         <mxCell id="tZWwhOLCPN1LkSMOnaSH-20" value="" style="group" vertex="1" connectable="0" parent="n-GR30JYTgkMvjTX16FW-1">
           <mxGeometry x="241" y="110" width="290" height="70" as="geometry" />
@@ -311,10 +305,7 @@
         <mxCell id="tZWwhOLCPN1LkSMOnaSH-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontSize=12;" edge="1" parent="n-GR30JYTgkMvjTX16FW-1" source="tZWwhOLCPN1LkSMOnaSH-22" target="tZWwhOLCPN1LkSMOnaSH-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tZWwhOLCPN1LkSMOnaSH-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="n-GR30JYTgkMvjTX16FW-1" source="tZWwhOLCPN1LkSMOnaSH-22" target="tZWwhOLCPN1LkSMOnaSH-5">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="tZWwhOLCPN1LkSMOnaSH-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.568;entryY=0.003;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;" edge="1" parent="n-GR30JYTgkMvjTX16FW-1" source="tZWwhOLCPN1LkSMOnaSH-22" target="tZWwhOLCPN1LkSMOnaSH-4">
+        <mxCell id="yf_QgkZDUWSm3HEsngmH-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="n-GR30JYTgkMvjTX16FW-1" source="tZWwhOLCPN1LkSMOnaSH-22" target="tZWwhOLCPN1LkSMOnaSH-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
@@ -355,6 +346,14 @@
         <mxCell id="LItrA1z4bbmvb7LKi7iB-18" value="奇门管理平台" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="LItrA1z4bbmvb7LKi7iB-1">
           <mxGeometry x="310" y="350" width="120" height="60" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="nI5eMhuyoCXBeyAHz1b_" name="Page-6">
+    <mxGraphModel dx="1061" dy="556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WV4Cj8u_r3B5r_WJluzc-0" />
+        <mxCell id="WV4Cj8u_r3B5r_WJluzc-1" parent="WV4Cj8u_r3B5r_WJluzc-0" />
       </root>
     </mxGraphModel>
   </diagram>
