@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-10T13:00:07.139Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="gutWdpp3pboFBmu5bl5I" version="14.1.9" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2021-03-11T02:43:09.884Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="NJkN3aQIphPNLxonV2x6" version="14.1.9" type="github" pages="6">
   <diagram id="9y6IP397UQbjec2epPPS" name="基础架构">
     <mxGraphModel dx="1061" dy="556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -312,7 +312,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="nI5eMhuyoCXBeyAHz1b_" name="实体关系图">
-    <mxGraphModel dx="1061" dy="652" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1061" dy="556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WV4Cj8u_r3B5r_WJluzc-0" />
         <mxCell id="WV4Cj8u_r3B5r_WJluzc-1" parent="WV4Cj8u_r3B5r_WJluzc-0" />
@@ -367,7 +367,7 @@
         <mxCell id="rFuAZUF0qTDoQTdxMf2X-23" value="API名称" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WV4Cj8u_r3B5r_WJluzc-1">
           <mxGeometry x="210" y="480" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="rFuAZUF0qTDoQTdxMf2X-24" value="API类型" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WV4Cj8u_r3B5r_WJluzc-1">
+        <mxCell id="rFuAZUF0qTDoQTdxMf2X-24" value="请求报文" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WV4Cj8u_r3B5r_WJluzc-1">
           <mxGeometry x="320" y="480" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="rFuAZUF0qTDoQTdxMf2X-25" value="鉴权信息" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WV4Cj8u_r3B5r_WJluzc-1">
@@ -385,7 +385,7 @@
         <mxCell id="htidYv0Q5fFfCPUcL2yf-3" value="API厂商" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WV4Cj8u_r3B5r_WJluzc-1">
           <mxGeometry x="50" y="220" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="htidYv0Q5fFfCPUcL2yf-4" value="API报文" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WV4Cj8u_r3B5r_WJluzc-1">
+        <mxCell id="htidYv0Q5fFfCPUcL2yf-4" value="响应报文" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WV4Cj8u_r3B5r_WJluzc-1">
           <mxGeometry x="410" y="430" width="80" height="50" as="geometry" />
         </mxCell>
       </root>
