@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-12T03:34:08.425Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="u_Zq7jZ0a76fkPtIi3xw" version="14.4.7" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2021-03-12T03:35:48.186Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="fzzf8JQfdLeRSQcwzgQN" version="14.4.7" type="github" pages="5">
   <diagram id="9y6IP397UQbjec2epPPS" name="基础架构">
     <mxGraphModel dx="1038" dy="652" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -157,7 +157,7 @@
         <mxCell id="ozKII4uYOQxk8mwsE6jV-1" value="API管理" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;fontSize=12;align=center;" parent="1" vertex="1">
           <mxGeometry x="120" y="280" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ozKII4uYOQxk8mwsE6jV-6" value="MVC构造器" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" parent="1" vertex="1">
+        <mxCell id="ozKII4uYOQxk8mwsE6jV-6" value="Controller构造器" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="155" y="440" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1kECcO1Oe25eFHyFeSTO-1" value="权限管理" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;fontSize=12;align=center;" parent="1" vertex="1">
