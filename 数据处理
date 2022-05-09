@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-09T11:28:37.934Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="SLx30NRrR4-mEWgS3Wjl" version="18.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-09T11:28:55.791Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="0glojmY07GMC6B1_ORb8" version="18.0.1" type="github">
   <diagram id="dJPl2Aspfl7GSDTPDxEq" name="Page-1">
     <mxGraphModel dx="1422" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -32,7 +32,7 @@
         <mxCell id="AXfYq0fiVJ7z530Tlx0v-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AXfYq0fiVJ7z530Tlx0v-4" target="AXfYq0fiVJ7z530Tlx0v-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AXfYq0fiVJ7z530Tlx0v-4" value="HTTP CLIENT" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AXfYq0fiVJ7z530Tlx0v-4" value="HTTP CLIENT组件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AXfYq0fiVJ7z530Tlx0v-6" value="SFTP组件" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
@@ -53,7 +53,7 @@
         <mxCell id="AXfYq0fiVJ7z530Tlx0v-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AXfYq0fiVJ7z530Tlx0v-12" target="AXfYq0fiVJ7z530Tlx0v-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AXfYq0fiVJ7z530Tlx0v-12" value="HTTP CLIENT" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="AXfYq0fiVJ7z530Tlx0v-12" value="HTTP CLIENT组件" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="480" y="540" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AXfYq0fiVJ7z530Tlx0v-14" value="第三方" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
