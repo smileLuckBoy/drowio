@@ -1,1 +1,101 @@
-<mxfile host="app.diagrams.net" modified="2022-05-12T11:53:09.907Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" version="18.0.1" etag="BRm_A_Z8NBiGm-aXmtfA" type="github"><diagram id="AjMm1PhG6YJBKG4FDH8u">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-05-13T03:00:13.303Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="tqDxZwoVs4QIQFYZcpoR" version="18.0.1" type="github">
+  <diagram id="AjMm1PhG6YJBKG4FDH8u" name="Page-1">
+    <mxGraphModel dx="1422" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="l0RPir2hE-o7u-3ZiA71-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="l0RPir2hE-o7u-3ZiA71-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="480" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l0RPir2hE-o7u-3ZiA71-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="l0RPir2hE-o7u-3ZiA71-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="650" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l0RPir2hE-o7u-3ZiA71-22" value="数据源" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="110" y="1140" width="960" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="l0RPir2hE-o7u-3ZiA71-23" value="MYSQL" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="1180" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="l0RPir2hE-o7u-3ZiA71-24" value="MYSQL" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="1180" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="l0RPir2hE-o7u-3ZiA71-25" value="MYSQL" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="850" y="1180" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="l0RPir2hE-o7u-3ZiA71-32" value="离线数据同步" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;horizontal=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="115" y="850" width="200" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="l0RPir2hE-o7u-3ZiA71-45" value="实时数据同步" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;horizontal=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="380" y="850" width="200" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="l0RPir2hE-o7u-3ZiA71-34" value="Canal" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="1040" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="l0RPir2hE-o7u-3ZiA71-36" value="flink" style="whiteSpace=wrap;html=1;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="896" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="l0RPir2hE-o7u-3ZiA71-40" value="Kafka" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="970" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="l0RPir2hE-o7u-3ZiA71-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="l0RPir2hE-o7u-3ZiA71-34" target="l0RPir2hE-o7u-3ZiA71-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l0RPir2hE-o7u-3ZiA71-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="l0RPir2hE-o7u-3ZiA71-40" target="l0RPir2hE-o7u-3ZiA71-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l0RPir2hE-o7u-3ZiA71-55" value="DataX" style="whiteSpace=wrap;html=1;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="970" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="l0RPir2hE-o7u-3ZiA71-59" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="877" y="850" width="193" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="l0RPir2hE-o7u-3ZiA71-56" value="实时数据同步" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;horizontal=1;verticalAlign=top;" vertex="1" parent="l0RPir2hE-o7u-3ZiA71-59">
+          <mxGeometry width="193" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="l0RPir2hE-o7u-3ZiA71-57" value="&lt;span style=&quot;color: rgb(28, 30, 33); font-family: SFMono-Regular, Menlo, Monaco, Consolas, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, monospace; font-size: 15px; font-weight: 700; text-align: start; background-color: rgb(246, 247, 248);&quot;&gt;Clickhouse&lt;br&gt;MaterializedMySQL&lt;br&gt;engine&lt;br&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;dashed=1;" vertex="1" parent="l0RPir2hE-o7u-3ZiA71-59">
+          <mxGeometry x="17" y="110" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="l0RPir2hE-o7u-3ZiA71-65" value="OLAP" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="115" y="690" width="955" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="l0RPir2hE-o7u-3ZiA71-66" value="ClickHouse" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="730" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="l0RPir2hE-o7u-3ZiA71-67" value="ClickHouse" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="730" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="l0RPir2hE-o7u-3ZiA71-69" value="应用层" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="112.5" y="530" width="955" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="l0RPir2hE-o7u-3ZiA71-68" value="ClickHouse" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="850" y="730" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="l0RPir2hE-o7u-3ZiA71-28" value="API" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="770" y="565" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="l0RPir2hE-o7u-3ZiA71-27" value="数据看板" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="l0RPir2hE-o7u-3ZiA71-70" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="627" y="850" width="200" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="l0RPir2hE-o7u-3ZiA71-60" value="离线数据同步" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;horizontal=1;verticalAlign=top;" vertex="1" parent="l0RPir2hE-o7u-3ZiA71-70">
+          <mxGeometry width="200" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="l0RPir2hE-o7u-3ZiA71-61" value="APP" style="whiteSpace=wrap;html=1;rounded=0;dashed=1;" vertex="1" parent="l0RPir2hE-o7u-3ZiA71-70">
+          <mxGeometry x="35" y="170" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="l0RPir2hE-o7u-3ZiA71-62" value="Kafka" style="whiteSpace=wrap;html=1;rounded=0;dashed=1;" vertex="1" parent="l0RPir2hE-o7u-3ZiA71-70">
+          <mxGeometry x="35" y="60" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="l0RPir2hE-o7u-3ZiA71-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="l0RPir2hE-o7u-3ZiA71-70" source="l0RPir2hE-o7u-3ZiA71-61" target="l0RPir2hE-o7u-3ZiA71-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
