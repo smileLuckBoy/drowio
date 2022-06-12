@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-12T03:32:23.859Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="USp91V9NXvmKQoDJbDHz" version="19.0.2" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-06-12T03:34:13.593Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="S9wD28yOKMe1DfkXkgKR" version="19.0.2" type="github" pages="6">
   <diagram id="VmbuWiUC86VWtIyfDOsg" name="数据归档概要流程设计">
     <mxGraphModel dx="1422" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -488,19 +488,19 @@
         <mxCell id="D2fnPSH1FsFD2RB17Qfp-16" value="数据归档" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#f0f0ff;strokeColor=#6c8ebf;align=left;" vertex="1" parent="1">
           <mxGeometry x="-100" y="385" width="870" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="D2fnPSH1FsFD2RB17Qfp-15" value="" style="endArrow=none;html=1;rounded=0;fontSize=14;strokeWidth=2;" edge="1" parent="1">
+        <mxCell id="D2fnPSH1FsFD2RB17Qfp-15" value="" style="endArrow=none;html=1;rounded=0;fontSize=14;strokeWidth=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="410" y="520" as="sourcePoint" />
             <mxPoint x="410" y="350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="D2fnPSH1FsFD2RB17Qfp-3" value="" style="endArrow=none;html=1;rounded=0;fontSize=14;strokeWidth=2;" edge="1" parent="1">
+        <mxCell id="D2fnPSH1FsFD2RB17Qfp-3" value="" style="endArrow=none;html=1;rounded=0;fontSize=14;strokeWidth=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="160" y="520" as="sourcePoint" />
             <mxPoint x="160" y="350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="D2fnPSH1FsFD2RB17Qfp-7" value="" style="endArrow=none;html=1;rounded=0;fontSize=14;strokeWidth=2;" edge="1" parent="1">
+        <mxCell id="D2fnPSH1FsFD2RB17Qfp-7" value="" style="endArrow=none;html=1;rounded=0;fontSize=14;strokeWidth=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="640" y="520" as="sourcePoint" />
             <mxPoint x="640" y="350" as="targetPoint" />
