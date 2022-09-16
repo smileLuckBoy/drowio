@@ -1,9 +1,74 @@
-<mxfile host="app.diagrams.net" modified="2022-09-16T08:12:13.931Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="KMMp1xMRYmrw2fTyftHa" version="20.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-16T08:18:12.536Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="Z_rxhYG31ylevEWwNLfd" version="20.2.7" type="github">
   <diagram id="1-p72ExX1WgF5WmRc_pm" name="第 2 页">
     <mxGraphModel dx="1422" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="8OTrpWgUnYKAh7pQnMEc-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8OTrpWgUnYKAh7pQnMEc-1" target="8OTrpWgUnYKAh7pQnMEc-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8OTrpWgUnYKAh7pQnMEc-1" value="CRM平台中获取&lt;br&gt;API KEY &amp;amp; Secret Key" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="230" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8OTrpWgUnYKAh7pQnMEc-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8OTrpWgUnYKAh7pQnMEc-2" target="8OTrpWgUnYKAh7pQnMEc-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8OTrpWgUnYKAh7pQnMEc-2" value="查询企业信息，为创建呼叫任务准备数据" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="221" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8OTrpWgUnYKAh7pQnMEc-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8OTrpWgUnYKAh7pQnMEc-4" target="8OTrpWgUnYKAh7pQnMEc-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8OTrpWgUnYKAh7pQnMEc-4" value="创建呼叫任务" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="407" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8OTrpWgUnYKAh7pQnMEc-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8OTrpWgUnYKAh7pQnMEc-8" target="8OTrpWgUnYKAh7pQnMEc-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8OTrpWgUnYKAh7pQnMEc-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8OTrpWgUnYKAh7pQnMEc-8" target="8OTrpWgUnYKAh7pQnMEc-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8OTrpWgUnYKAh7pQnMEc-8" value="启动任务" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="778" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8OTrpWgUnYKAh7pQnMEc-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8OTrpWgUnYKAh7pQnMEc-10" target="8OTrpWgUnYKAh7pQnMEc-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8OTrpWgUnYKAh7pQnMEc-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8OTrpWgUnYKAh7pQnMEc-10" target="8OTrpWgUnYKAh7pQnMEc-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1020" y="190" />
+              <mxPoint x="830" y="190" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8OTrpWgUnYKAh7pQnMEc-10" value="暂停任务" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="964" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8OTrpWgUnYKAh7pQnMEc-12" value="删除任务" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8OTrpWgUnYKAh7pQnMEc-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8OTrpWgUnYKAh7pQnMEc-15" target="8OTrpWgUnYKAh7pQnMEc-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8OTrpWgUnYKAh7pQnMEc-15" value="开始呼叫" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="778" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8OTrpWgUnYKAh7pQnMEc-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8OTrpWgUnYKAh7pQnMEc-17" target="8OTrpWgUnYKAh7pQnMEc-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8OTrpWgUnYKAh7pQnMEc-17" value="产生通话回调数据" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="578" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8OTrpWgUnYKAh7pQnMEc-19" value="通话数据回调至客户系统" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="378" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8OTrpWgUnYKAh7pQnMEc-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8OTrpWgUnYKAh7pQnMEc-24" target="8OTrpWgUnYKAh7pQnMEc-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8OTrpWgUnYKAh7pQnMEc-24" value="导入用户线索" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="593" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
