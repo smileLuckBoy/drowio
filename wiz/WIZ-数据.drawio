@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-05T15:56:19.281Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="TZt3nXzh6Lfi6GnpSty6" version="20.8.16" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-02-05T16:14:13.068Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="0NtOm9qVS7_ms7UcCh50" version="20.8.16" type="github" pages="4">
   <diagram name="数据流向图" id="xPmKFSUBdNxmS8ZJUSd8">
     <mxGraphModel dx="794" dy="439" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -170,8 +170,62 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="XtWAKBgwr2IGCuSTUpbO-2" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="110" y="90" width="120" height="60" as="geometry" />
+        <mxCell id="IkPSkPZ8Dg-KP5vvzSqr-10" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="171.5" y="74" width="349" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="IkPSkPZ8Dg-KP5vvzSqr-9" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="171" y="180" width="349" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="IkPSkPZ8Dg-KP5vvzSqr-6" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="170" y="360" width="350" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="wqM_a8ic8JI0HyN8aoiE-1" value="CRM-Server" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="190" y="94" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wqM_a8ic8JI0HyN8aoiE-2" value="data-statistics" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="380" y="94" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wqM_a8ic8JI0HyN8aoiE-4" value="API" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="180" y="195" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wqM_a8ic8JI0HyN8aoiE-5" value="指标查询" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="290" y="195" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wqM_a8ic8JI0HyN8aoiE-6" value="明细查询" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="410" y="195" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wqM_a8ic8JI0HyN8aoiE-7" value="多源" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="180" y="260" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wqM_a8ic8JI0HyN8aoiE-8" value="路由" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="290" y="260" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wqM_a8ic8JI0HyN8aoiE-9" value="降级" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="410" y="260" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wqM_a8ic8JI0HyN8aoiE-10" value="数&lt;br&gt;据&lt;br&gt;服&lt;br&gt;务&lt;br&gt;层" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="100" y="190" width="60" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="wqM_a8ic8JI0HyN8aoiE-11" value="应&lt;br&gt;用&lt;br&gt;层" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="100" y="84" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wqM_a8ic8JI0HyN8aoiE-12" value="MYSQL-同步" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.mysql_db_instance;fillColor=#2E73B8;gradientColor=none;rounded=1;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="220" y="380.75" width="50" height="53.75" as="geometry" />
+        </mxCell>
+        <mxCell id="IkPSkPZ8Dg-KP5vvzSqr-1" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="414" y="380" width="65" height="71.12" as="geometry" />
+        </mxCell>
+        <mxCell id="IkPSkPZ8Dg-KP5vvzSqr-2" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;aspect=fixed;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNTAwIiB2aWV3Qm94PSIwIDAgOSA4IiBoZWlnaHQ9IjIyMjIiPjxwYXRoIGZpbGw9IiNmMDAiIGQ9Im0wIDdoMXYxaC0xeiIvPjxwYXRoIGZpbGw9IiNmYzAiIGQ9Im0wIDBoMXY3aC0xem0yIDBoMXY4aC0xem0yIDBoMXY4aC0xem0yIDBoMXY4aC0xem0yIDMuMjVoMXYxLjVoLTF6Ii8+PC9zdmc+" vertex="1" parent="IkPSkPZ8Dg-KP5vvzSqr-1">
+          <mxGeometry x="11.470588235294118" width="53.529411764705884" height="47.564705882352946" as="geometry" />
+        </mxCell>
+        <mxCell id="IkPSkPZ8Dg-KP5vvzSqr-3" value="Clickhouse" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="IkPSkPZ8Dg-KP5vvzSqr-1">
+          <mxGeometry y="48.178064516129034" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IkPSkPZ8Dg-KP5vvzSqr-4" value="数据库" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="100" y="360" width="60" height="112.25" as="geometry" />
+        </mxCell>
+        <mxCell id="IkPSkPZ8Dg-KP5vvzSqr-7" value="MYSQL-读库" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.mysql_db_instance;fillColor=#2E73B8;gradientColor=none;rounded=1;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="321" y="380.75" width="50" height="53.75" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
