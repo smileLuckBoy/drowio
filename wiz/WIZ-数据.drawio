@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-28T12:28:08.038Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="3voo_kMyrfQ-Y3pVJx-X" version="20.8.16" type="github" pages="14">
+<mxfile host="app.diagrams.net" modified="2023-03-01T07:15:14.375Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="D0FkGCqSTYfAq9OqRDx9" version="20.8.16" type="github" pages="15">
   <diagram name="数据流向图" id="xPmKFSUBdNxmS8ZJUSd8">
     <mxGraphModel dx="1434" dy="833" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1069,6 +1069,32 @@
         </mxCell>
         <mxCell id="S2_XBeclErVgy8i6J2RX-20" value="版本-C" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=17;fontColor=#EA6B66;fontStyle=1" vertex="1" connectable="0" parent="1">
           <mxGeometry x="704" y="360" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="8rll0joVaqN32VZluXR0" name="第 15 页">
+    <mxGraphModel dx="1434" dy="833" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="5kx7ke-MDZq68PqvYyMo-1" value="迁移流程概要" style="swimlane;childLayout=stackLayout;horizontal=1;fillColor=none;horizontalStack=1;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;strokeColor=none;stackBorder=10;stackSpacing=-12;resizable=1;align=center;points=[];whiteSpace=wrap;html=1;fontSize=17;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="260" y="380" width="1080" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="5kx7ke-MDZq68PqvYyMo-2" value="①创建子表" style="shape=step;perimeter=stepPerimeter;fixedSize=1;points=[];whiteSpace=wrap;html=1;fontSize=17;fontColor=#000000;" vertex="1" parent="5kx7ke-MDZq68PqvYyMo-1">
+          <mxGeometry x="10" y="33" width="140" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="5kx7ke-MDZq68PqvYyMo-3" value="②历史/实时数据同步" style="shape=step;perimeter=stepPerimeter;fixedSize=1;points=[];whiteSpace=wrap;html=1;fontSize=17;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="5kx7ke-MDZq68PqvYyMo-1">
+          <mxGeometry x="138" y="33" width="202" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="5kx7ke-MDZq68PqvYyMo-4" value="③迁移Select/insert/update操作" style="shape=step;perimeter=stepPerimeter;fixedSize=1;points=[];whiteSpace=wrap;html=1;fontSize=17;fontColor=#000000;" vertex="1" parent="5kx7ke-MDZq68PqvYyMo-1">
+          <mxGeometry x="328" y="33" width="322" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="5kx7ke-MDZq68PqvYyMo-5" value="④判定Select/insert/update迁移完成" style="shape=step;perimeter=stepPerimeter;fixedSize=1;points=[];whiteSpace=wrap;html=1;fontSize=17;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="5kx7ke-MDZq68PqvYyMo-1">
+          <mxGeometry x="638" y="33" width="302" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="5kx7ke-MDZq68PqvYyMo-8" value="⑤废弃老表" style="shape=step;perimeter=stepPerimeter;fixedSize=1;points=[];whiteSpace=wrap;html=1;fontSize=17;fontColor=#000000;" vertex="1" parent="5kx7ke-MDZq68PqvYyMo-1">
+          <mxGeometry x="928" y="33" width="142" height="57" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
