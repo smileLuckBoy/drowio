@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-06T05:34:42.787Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="mC3_F85IAI2JxF3r84aX" version="21.0.2" type="github" pages="18">
+<mxfile host="app.diagrams.net" modified="2023-03-06T05:37:16.262Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="Tt6Jxrp2hGtbrVE4O-7K" version="21.0.2" type="github" pages="18">
   <diagram name="数据流向图" id="xPmKFSUBdNxmS8ZJUSd8">
     <mxGraphModel dx="1434" dy="833" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -734,7 +734,7 @@
             <mxPoint x="205" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XXFCb3hSjWUGZcJFSLgM-2" value="insert/update" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1;fontSize=17;" parent="XXFCb3hSjWUGZcJFSLgM-1" vertex="1" connectable="0">
+        <mxCell id="XXFCb3hSjWUGZcJFSLgM-2" value="&lt;font color=&quot;#ea6b66&quot;&gt;&lt;strike&gt;insert/update/select（低延迟）&lt;/strike&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1;fontSize=17;" parent="XXFCb3hSjWUGZcJFSLgM-1" vertex="1" connectable="0">
           <mxGeometry x="-0.24" relative="1" as="geometry">
             <mxPoint y="17" as="offset" />
           </mxGeometry>
