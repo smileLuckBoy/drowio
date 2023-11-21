@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-21T06:32:18.549Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="Cz6Mqw5l2Agf8UziVtEJ" version="21.7.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-11-21T06:35:25.228Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="mTBEEfKhPOWEe99mi2Vj" version="21.7.2" type="github" pages="2">
   <diagram name="第 1 页" id="qsA7nAwAdNASHieRgJQB">
     <mxGraphModel dx="1434" dy="833" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -15,7 +15,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="IXahhotZENDEbimjL1xp-8" value="CLickhouse" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="150" y="640" width="340" height="50" as="geometry" />
+          <mxGeometry x="150" y="630" width="340" height="50" as="geometry" />
         </mxCell>
         <mxCell id="IXahhotZENDEbimjL1xp-11" value="Flink CDC" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="160" y="530" width="60" height="100" as="geometry" />
@@ -47,8 +47,14 @@
         <mxCell id="g3bt5XTVbCjW5nE85IyD-5" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="210" width="40" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="g3bt5XTVbCjW5nE85IyD-6" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="g3bt5XTVbCjW5nE85IyD-6" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="410" y="210" width="40" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="g3bt5XTVbCjW5nE85IyD-7" value="非CRM链接" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="90" y="235" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="g3bt5XTVbCjW5nE85IyD-8" value="CRM链接" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="440" y="235" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
