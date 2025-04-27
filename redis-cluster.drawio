@@ -109,7 +109,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bwE3h9Y_H4zL6l7523vv-4" value="Redis Cluster" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="75.5" y="250" width="114.5" height="30" as="geometry" />
+          <mxGeometry x="75.5" y="260" width="114.5" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
