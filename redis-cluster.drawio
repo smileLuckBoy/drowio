@@ -4,14 +4,17 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="bwE3h9Y_H4zL6l7523vv-3" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=5;" vertex="1" parent="1">
+          <mxGeometry x="67.5" y="290" width="685" height="320" as="geometry" />
+        </mxCell>
         <mxCell id="PF7ncsUSyslSpBPPcUuv-26" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="520" y="340" width="180" height="270" as="geometry" />
+          <mxGeometry x="520" y="340" width="180" height="240" as="geometry" />
         </mxCell>
         <mxCell id="PF7ncsUSyslSpBPPcUuv-25" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="320" y="340" width="180" height="270" as="geometry" />
+          <mxGeometry x="320" y="340" width="180" height="240" as="geometry" />
         </mxCell>
         <mxCell id="PF7ncsUSyslSpBPPcUuv-24" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="120" y="340" width="180" height="270" as="geometry" />
+          <mxGeometry x="120" y="340" width="180" height="240" as="geometry" />
         </mxCell>
         <mxCell id="PF7ncsUSyslSpBPPcUuv-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="PF7ncsUSyslSpBPPcUuv-3" target="PF7ncsUSyslSpBPPcUuv-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -29,13 +32,13 @@
           <mxGeometry x="590" y="380" width="71.42" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PF7ncsUSyslSpBPPcUuv-12" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Cache_Redis_Product.svg;" parent="1" vertex="1">
-          <mxGeometry x="190" y="525" width="71.42" height="60" as="geometry" />
+          <mxGeometry x="190" y="495" width="71.42" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PF7ncsUSyslSpBPPcUuv-13" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Cache_Redis_Product.svg;" parent="1" vertex="1">
-          <mxGeometry x="390" y="525" width="71.42" height="60" as="geometry" />
+          <mxGeometry x="390" y="495" width="71.42" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PF7ncsUSyslSpBPPcUuv-14" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Cache_Redis_Product.svg;" parent="1" vertex="1">
-          <mxGeometry x="590" y="525" width="71.42" height="60" as="geometry" />
+          <mxGeometry x="590" y="495" width="71.42" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PF7ncsUSyslSpBPPcUuv-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.504;entryY=0.05;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="PF7ncsUSyslSpBPPcUuv-11" target="PF7ncsUSyslSpBPPcUuv-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -50,13 +53,13 @@
           <mxGeometry x="530" y="395" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PF7ncsUSyslSpBPPcUuv-27" value="Replica-A" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="125" y="525" width="60" height="30" as="geometry" />
+          <mxGeometry x="130" y="510" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PF7ncsUSyslSpBPPcUuv-28" value="Replica-B" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="330" y="525" width="60" height="30" as="geometry" />
+          <mxGeometry x="340" y="510" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PF7ncsUSyslSpBPPcUuv-29" value="Replica-C" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="530" y="525" width="60" height="30" as="geometry" />
+          <mxGeometry x="530" y="510" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PF7ncsUSyslSpBPPcUuv-30" value="Slot 0-5460" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="120" y="310" width="70" height="30" as="geometry" />
@@ -104,6 +107,9 @@
         </mxCell>
         <mxCell id="PF7ncsUSyslSpBPPcUuv-43" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.544;entryY=0.007;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" parent="1" source="PF7ncsUSyslSpBPPcUuv-35" target="PF7ncsUSyslSpBPPcUuv-26" edge="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bwE3h9Y_H4zL6l7523vv-4" value="Redis Cluster" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="75.5" y="250" width="114.5" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
