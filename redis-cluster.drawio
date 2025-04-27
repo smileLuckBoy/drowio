@@ -41,7 +41,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PF7ncsUSyslSpBPPcUuv-18" value="Master-A" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="120" y="395" width="60" height="30" as="geometry" />
+          <mxGeometry x="130" y="395" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PF7ncsUSyslSpBPPcUuv-22" value="Master-B" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="330" y="395" width="60" height="30" as="geometry" />
@@ -50,7 +50,7 @@
           <mxGeometry x="530" y="395" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PF7ncsUSyslSpBPPcUuv-27" value="Replica-A" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="120" y="525" width="60" height="30" as="geometry" />
+          <mxGeometry x="125" y="525" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PF7ncsUSyslSpBPPcUuv-28" value="Replica-B" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="330" y="525" width="60" height="30" as="geometry" />
