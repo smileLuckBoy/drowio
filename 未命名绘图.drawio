@@ -151,6 +151,23 @@
         <mxCell id="DcJ0fIx1Vj4o4AgUXsYJ-2" value="改造后" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="-50" y="350" width="220" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="DcJ0fIx1Vj4o4AgUXsYJ-3" value="数据清除服务" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="690" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DcJ0fIx1Vj4o4AgUXsYJ-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.87;entryY=-0.005;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="DcJ0fIx1Vj4o4AgUXsYJ-3" target="Vz8ZlKg2i7Nz76ooLruL-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DcJ0fIx1Vj4o4AgUXsYJ-6" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;" edge="1" parent="1" source="DcJ0fIx1Vj4o4AgUXsYJ-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="280" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="520" y="280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DcJ0fIx1Vj4o4AgUXsYJ-5" value="数据清除服务" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="600" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
