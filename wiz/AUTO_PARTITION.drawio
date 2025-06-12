@@ -228,7 +228,7 @@
           <mxGeometry x="600" y="130" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="21AiyFc2b8ijHqMaO3iX-64" value="&lt;div data-lark-html-role=&quot;root&quot;&gt;&lt;span style=&quot;white-space: pre;&quot; data-eleid=&quot;translation-3&quot; class=&quot;text-only&quot;&gt;Encrypted field&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="700" y="130" width="100" height="30" as="geometry" />
+          <mxGeometry x="690" y="130" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
