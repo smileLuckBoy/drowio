@@ -245,7 +245,7 @@
         <mxCell id="smcbvfyqlt1mGs_0VcL0-2" value="&lt;div data-lark-html-role=&quot;root&quot;&gt;&lt;div data-lark-html-role=&quot;root&quot;&gt;&lt;span class=&quot;text-only&quot; data-eleid=&quot;translation-3&quot; style=&quot;white-space: pre;&quot;&gt;Stores variables uploaded by users, &lt;br&gt;which may include mobile phone numbers and other information&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="640" y="750" width="340" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="vQG7wFYDRgSTHProtOUq-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="vQG7wFYDRgSTHProtOUq-2" target="21AiyFc2b8ijHqMaO3iX-30">
+        <mxCell id="vQG7wFYDRgSTHProtOUq-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;dashed=1;endArrow=none;startFill=0;" edge="1" parent="1" source="vQG7wFYDRgSTHProtOUq-2" target="21AiyFc2b8ijHqMaO3iX-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vQG7wFYDRgSTHProtOUq-2" value="&lt;div data-lark-html-role=&quot;root&quot;&gt;&lt;div data-lark-html-role=&quot;root&quot;&gt;&lt;div data-lark-html-role=&quot;root&quot;&gt;&lt;span style=&quot;white-space: pre;&quot; data-eleid=&quot;translation-3&quot; class=&quot;text-only&quot;&gt;Call details, including the content of user and BOT calls&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
